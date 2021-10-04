@@ -1,24 +1,24 @@
-![Visitor Count](https://profile-counter.glitch.me/AndreCastroSousa/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/andrecastrosousa/count.svg)
 
 <h1> Hi there, I'm André Sousa! 🐱‍💻 </h1>
 
 - 📱 I’m currently working as a Mobile Developer
 
 <div align="center">
-  <a href="https://github.com/AndreCastroSousa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreCastroSousa&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreCastroSousa&layout=compact&langs_count=7&theme=gruvbox">
+  <a href="https://github.com/andrecastrosousa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrecastrosousa&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecastrosousa&layout=compact&langs_count=7&theme=gruvbox">
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="AndreSousa-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img align="center" alt="AndreSousa-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="AndreSousa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="AndreSousa-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="AndreSousa-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="AndreSousa-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
+  <img align="center" alt="AndreSousa-iOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
+  <img align="center" alt="AndreSousa-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
 </div>
   
   ##
@@ -31,7 +31,7 @@
   ##
   
 ```dart
-const AndreCastroSousa = {
+const andrecastrosousa = {
     pronouns: "He" | "Him",
     code: ["Dart", "Kotlin","PHP", "Javascript","NoSQL"],
     askMeAbout: ["MobileDev"],
