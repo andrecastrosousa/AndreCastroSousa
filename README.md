@@ -33,16 +33,22 @@
 ```dart
 const andrecastrosousa = {
     pronouns: "He" | "Him",
-    code: ["Dart", "Kotlin","PHP", "Javascript","NoSQL"],
+    code: ["Flutter", "Kotlin","Laravel", "React", "NoSQL"],
     askMeAbout: ["MobileDev"],
     technologies: {
         backEnd: {
-            'mobile': ['dart', 'kotlin'],
-            'web': ['php', 'node']
+            'mobile': ['firebase'],
+            'web': ['node']
         },
+        frontEnd: {
+            'mobile': ['kotlin', 'dart'],
+            'web': ['react', 'laravel'],
+        }
         databases: ["Firebase", "MySql", "sqlite"],
         misc: ["Firebase", "Kotlin", ]
     },
     currentFocus: "Flutter",
     motivation: "Learning something new every day!"
 };
+  
+![Snake animation](https://github.com/andrecastrosousa/andrecastrosousa/blob/output/github-contribution-grid-snake.svg)
