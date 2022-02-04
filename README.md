@@ -19,16 +19,11 @@
   <img align="center" alt="AndreSousa-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
   <img align="center" alt="AndreSousa-iOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
   <img align="center" alt="AndreSousa-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
-</div>
-  
-  ##
+
+  </div>
+  <br>
 <div>
-  <a href="https://www.linkedin.com/in/andr%C3%A9-sousa-940a66185/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:andre.castro.sousa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://open.spotify.com/user/gntylpkdhimzu2n67zj9ok7z8?si=b2d852cb4988449c" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-</div>
   
-  ##
   
 ```dart
 const andrecastrosousa = {
@@ -50,5 +45,16 @@ const andrecastrosousa = {
     currentFocus: "Flutter",
     motivation: "Learning something new every day!"
 };
+```
+</div>
   
-![Snake animation](https://github.com/andrecastrosousa/andrecastrosousa/blob/output/github-contribution-grid-snake.svg)
+  ##
+<div>
+  <a href="https://www.linkedin.com/in/andr%C3%A9-sousa-940a66185/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:andre.castro.sousa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://open.spotify.com/user/gntylpkdhimzu2n67zj9ok7z8?si=b2d852cb4988449c" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+
+  ![Snake animation](https://github.com/andrecastrosousa/andrecastrosousa/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
