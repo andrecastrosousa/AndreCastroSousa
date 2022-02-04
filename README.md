@@ -1,6 +1,6 @@
 ![Visitor Count](https://profile-counter.glitch.me/andrecastrosousa/count.svg)
 
-<h1> Hi there, I'm André Sousa! 🐱‍💻 </h1>
+<h1> Hi there, I'm André Sousa! 💻 </h1>
 
 - 📱 I’m currently working as a Mobile Developer
 
