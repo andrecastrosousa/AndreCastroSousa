@@ -18,8 +18,6 @@
   <img align="center" alt="AndreSousa-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
   <img align="center" alt="AndreSousa-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
   <img align="center" alt="AndreSousa-iOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
-  <img align="center" alt="AndreSousa-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
-
   </div>
   <br>
 <div>
@@ -28,21 +26,20 @@
 ```dart
 const andrecastrosousa = {
     pronouns: "He" | "Him",
-    code: ["Flutter", "Kotlin","Laravel", "React", "NoSQL"],
+    code: ["Flutter", "Kotlin", "Java", "React", "NoSQL"],
     askMeAbout: ["MobileDev"],
     technologies: {
         backEnd: {
-            'mobile': ['firebase'],
-            'web': ['node']
+            'mobile': ['firebase', 'node'],
+            'web': ['node', 'quarkus', 'spring']
         },
         frontEnd: {
             'mobile': ['kotlin', 'dart'],
-            'web': ['react', 'laravel'],
+            'web': ['react', 'nextjs'],
         }
-        databases: ["Firebase", "MySql", "sqlite"],
-        misc: ["Firebase", "Kotlin", ]
+        databases: ["Firebase", "MySql", "JDBC"],
     },
-    currentFocus: "Flutter",
+    currentFocus: "Java",
     motivation: "Learning something new every day!"
 };
 ```
