@@ -4,12 +4,9 @@
 
 - 📱 I’m currently working as a Mobile Developer
 
-<div align="center">
-  <a href="https://github.com/andrecastrosousa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrecastrosousa&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecastrosousa&layout=compact&langs_count=7&theme=gruvbox">
-</div>
-  
+[![André Sousa's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrecastrosousa&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true&rank_icon=github)](https://github.com/andrecastrosousa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrecastrosousa&layout=compact&theme=gruvbox&count_private=true)](https://github.com/andrecastrosousa/github-readme-stats)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="AndreSousa-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="AndreSousa-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
@@ -26,18 +23,19 @@
 ```dart
 const andrecastrosousa = {
     pronouns: "He" | "Him",
-    code: ["Flutter", "Kotlin", "Java", "React", "NoSQL"],
+    code: ["Dart", "Kotlin", "Java", "React"],
     askMeAbout: ["MobileDev"],
     technologies: {
-        backEnd: {
-            'mobile': ['firebase', 'node'],
-            'web': ['node', 'quarkus', 'spring']
-        },
-        frontEnd: {
-            'mobile': ['kotlin', 'dart'],
-            'web': ['react', 'nextjs'],
-        }
-        databases: ["Firebase", "MySql", "JDBC"],
+        backEnd: [
+            'quarkus', 'spring'
+        ],
+        frontEnd: [
+            'react', 'nextjs',
+        ],
+        mobile: [
+            'kotlin', 'dart'
+        ]
+        databases: ["NoSQL", "MySql", "JDBC"],
     },
     currentFocus: "Java",
     motivation: "Learning something new every day!"
