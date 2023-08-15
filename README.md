@@ -2,7 +2,7 @@
 
 <h1> Hi there, I'm André Sousa! 💻 </h1>
 
-- 📱 I’m currently working as a Mobile Developer
+- 📱 I’m currently learning Backend Developement in Java
 
 [![André Sousa's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrecastrosousa&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true&rank_icon=github)](https://github.com/andrecastrosousa/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrecastrosousa&layout=compact&theme=gruvbox&count_private=true)](https://github.com/andrecastrosousa/github-readme-stats)
