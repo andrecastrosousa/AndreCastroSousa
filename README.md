@@ -35,7 +35,7 @@ const andrecastrosousa = {
         mobile: [
             'kotlin', 'dart'
         ]
-        databases: ["NoSQL", "MySql", "JDBC"],
+        databases: ["NoSQL", "MySql"],
     },
     currentFocus: "Java",
     motivation: "Learning something new every day!"
